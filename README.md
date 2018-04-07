@@ -9,3 +9,4 @@
 1. Чтобы найти три самых частотных модификатора существительного question, я использовала сервис Word Sketch в левом меню сайта, указав, что question - noun. По итогам запроса, можно сделать вывод, что три наиб. частых модификатора слова question - difficult, important, fundamental.  
  ![](https://github.com/OpykhtinaAlisa/hw6/blob/master/sk11.PNG?raw=true)
 2. Я выбрала два синонимичных глагола: think и ponder. Далее зашла на Sketch Diff в левом меню сайта. 
+![](https://github.com/OpykhtinaAlisa/hw6/blob/master/sketchdiff.PNG?raw=true)
