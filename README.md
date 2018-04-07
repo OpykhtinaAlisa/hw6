@@ -10,6 +10,6 @@
  ![](https://github.com/OpykhtinaAlisa/hw6/blob/master/sk11.PNG?raw=true)
 2. Я выбрала два синонимичных глагола: think и ponder. Далее зашла на Sketch Diff в левом меню сайта.
 ![](https://github.com/OpykhtinaAlisa/hw6/blob/master/sketchdiff.PNG?raw=true)
-Исходя из полученных данных, можно заключить, что с дополнением question могут употребляться оба глагола, со словом, например,  dilemma употребляется глагол ponder, а со словом people употребляется глагол think. 
+ Исходя из полученных данных, можно заключить, что с дополнением question могут употребляться оба глагола, со словом, например,  dilemma употребляется глагол ponder, а со словом people употребляется глагол think. 
 
 
