@@ -1,7 +1,7 @@
 # hw6
 ## Часть 1. 
 1. 10 самых частотных продолжений фразы "due to the" я нашла с помощью добавления символа * в конце данного словосочетания. 
-![](https://github.com/OpykhtinaAlisa/draft/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG?raw=true)
+![](https://github.com/OpykhtinaAlisa/hw6/blob/master/duetothe.PNG?raw=true)
 2. Я нашла слово, которое может относиться одновременно к двум частям речи с помощью формулы "Слово_NOUN, слово_VERB"
 ![](https://github.com/OpykhtinaAlisa/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG?raw=true)
 3. Я выбрала два синонима: fries (исп. в британском англ.) и chips (исп. в американском англ.). Убедилась в этом с помощью формулы "chips: eng_gb_2012,chips: eng_us_2009,fries: eng_gb_2012,fries: eng_us_2009". На основе полученных графиков можно сделать несколько выводов:
